@@ -1,0 +1,6 @@
+{
+  "name": "Salesforce Lead Management",
+  "description": "Salesforce lead management dashboard with direct AWS EC2 REST service scoring integration and deterministic rule-based follow-up recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
